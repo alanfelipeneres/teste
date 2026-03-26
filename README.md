@@ -1,3 +1,3 @@
 # Meu Projeto
 
-Versão da feature
+Versão da conflito

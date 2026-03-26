@@ -1,3 +1,3 @@
 # Meu Projeto
 
-Versão da conflito
+Versão da main
